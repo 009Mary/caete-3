@@ -1,0 +1,73 @@
+nav{
+    padding: 10px 25px;
+    text-align: center;
+}
+nav a{
+    margin: 0 30px;
+}
+
+header{
+    display: flex;
+    align-items: center;
+    color:blueviolet;
+    background-color:rgb(116, 188, 214);
+   font-size:19px; 
+}
+
+footer{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+h1 {
+    color:red;
+    text-align: center;
+    font-size: 40px;
+}
+
+p{
+    color:Blue;
+     background-color:#F96;
+     font-size: 24px;
+     padding: 20px;
+     text-align: justify;
+}
+
+.was{
+text-align: center;
+    
+}
+
+.was img{
+width: 800px;
+}
+
+footer img{
+   width:200px 
+}
+
+.swe{
+   width: 500px; 
+}
+
+.sdf{
+   text-align: center;
+}
+
+.lkj{
+  width:300px;   
+}
+
+.bhg{
+  text-align: center;
+  font-size: 19px;
+}  
+
+
+.vgf{
+  width:300px;  
+}
